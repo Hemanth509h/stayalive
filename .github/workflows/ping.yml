@@ -14,6 +14,7 @@ jobs:
           SITES=(
             "https://canteen-f0rq.onrender.com"
             "https://canteen-jtyn.onrender.com"
+            "https://grocerly-management-system-7xsw.onrender.com"
           )
 
           for site in "${SITES[@]}"; do
